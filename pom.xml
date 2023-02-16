@@ -133,9 +133,9 @@
   <build>
     <plugins>
       <plugin>
-        #<groupId>io.spring.javaformat</groupId>
-        #<artifactId>spring-javaformat-maven-plugin</artifactId>
-        #<version>${spring-format.version}</version>
+        <!-- <groupId>io.spring.javaformat</groupId>
+        <artifactId>spring-javaformat-maven-plugin</artifactId>
+        <version>${spring-format.version}</version> -->
         <!-- run ./mvnw spring-javaformat:apply to apply -->
         <executions>
           <execution>
